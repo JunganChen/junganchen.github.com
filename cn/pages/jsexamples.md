@@ -1,4 +1,5 @@
 # Examples
 
-[JavaScript](https://junganchen.github.io/jsexample/index.html)
-[return Home](https://junganchen.github.io)
+[Widget](https://junganchen.github.io/jsexample/index.html)
+[Menu](https://junganchen.github.io/menudemo/index.html)
+
