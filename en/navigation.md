@@ -25,10 +25,10 @@
 [Publicatoins](pages/Publications.md)
 [Pantents](pages/Pantents.md)
 <!--
-[AI](pages/ai.md)
-[Example]()
-
-  * [jsexample](pages/jsexamples.md)
+--[AI](pages/ai.md)
+--[Example]()
+--
+--  * [jsexample](pages/jsexamples.md)
   -->
 
 
