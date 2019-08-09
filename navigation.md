@@ -35,14 +35,14 @@
 <!--
   -- Change the Language
   -- Could be useful when there's more than one language wiki.
-  
+  -->
 
 
 [Change the Language]()
 
   * [English](/en/)
   * [Chinese](/cn/)
- --> 
+  
 <!--
   -- Let the user choose a theme
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
