@@ -26,8 +26,8 @@
 [Pantents](pages/en/Pantents.md)
 [AI](pages/en/ai.md)
 [Chinese](pages/cn/#!indexCN.md)
-[Example]()
-[JavaScipt](jsexample/README.md)
+[Menu Example]()
+[SubMenu JavaScipt](jsexample/README.md)
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
