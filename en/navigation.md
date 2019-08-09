@@ -24,11 +24,12 @@
 [Projects](pages/Projects.md)
 [Publicatoins](pages/Publications.md)
 [Pantents](pages/Pantents.md)
+<!--
 [AI](pages/ai.md)
 [Example]()
 
   * [jsexample](pages/jsexamples.md)
-  
+  -->
 
 
 <!--

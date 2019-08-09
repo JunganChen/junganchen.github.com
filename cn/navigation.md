@@ -24,11 +24,12 @@
 [项目](pages/Projects.md)
 [论文](pages/Publications.md)
 [专利](pages/Pantents.md)
+<!--
 [AI](pages/ai.md)
 [Example]()
 
   * [jsexample](pages/jsexamples.md)
-  
+  -->
 
 
 <!--
