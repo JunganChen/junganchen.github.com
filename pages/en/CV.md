@@ -1,9 +1,4 @@
 # Curriculum Vitae
-College of Intelligence Information Engineering 
-Zhejiang Wanli University 
-Ningbo Shi, Zhejiang Province, China, 310015 
-Telephone: 86-13967847974
-E-mail: Friendcen21@hotmail.com
 
 ## Education
 2014-2018:  PhD degree in Control Science and Engineering at Zhejiang University of Technology

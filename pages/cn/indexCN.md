@@ -3,7 +3,10 @@
 
 ## 基本信息
 
-Zhejiang Wanli University
+智能信息工程学院
+浙江万里学院
+浙江省宁波市钱湖南路8号，315100
+Email:Friendcen21@hotmail.com
 
 
 ## 研究方向
