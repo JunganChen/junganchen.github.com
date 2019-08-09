@@ -27,7 +27,7 @@
 [AI](pages/ai.md)
 [Example]()
 
-  * [jsexample](jsexample/README.md)
+  * [jsexample](pages/jsexamples.md)
   
 
 
