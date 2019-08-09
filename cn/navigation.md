@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Jungan Chen
+# 陈军敢
 
 <!--
   -- Default theme
@@ -20,10 +20,10 @@
  
  
  
-[CV](pages/CV.md)
-[Projects](pages/Projects.md)
-[Publicatoins](pages/Publications.md)
-[Pantents](pages/Pantents.md)
+[简历](pages/CV.md)
+[项目](pages/Projects.md)
+[论文](pages/Publications.md)
+[专利](pages/Pantents.md)
 [AI](pages/ai.md)
 [Example]()
 
