@@ -26,8 +26,10 @@
 [Pantents](pages/en/Pantents.md)
 [AI](pages/en/ai.md)
 [Chinese](pages/cn/#!indexCN.md)
-[Menu Example]()
-[SubMenu JavaScipt](jsexample/README.md)
+[Example]()
+[JavaScipt](jsexample/README.md)
+
+<!--
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
@@ -47,20 +49,18 @@
 [Menu Item 3](pages/item3.md)
 
 ---------------------------------------------------------------------------- -->
-
+-->
 <!--
   -- Change the Language
   -- Could be useful when there's more than one language wiki.
   -->
 
-<!--
+
 [Change the Language]()
 
-  * [English (United States)](/en_US/)
-  * [English (United Kingdom)](/en_GB/)
-  * [Italian](/it/)
--->
-
+  * [English](/en/)
+  * [Chinese](/cn/)
+  
 <!--
   -- Let the user choose a theme
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
