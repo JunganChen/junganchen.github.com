@@ -22,6 +22,7 @@
 [简历](pages/cn/CV.md)
 [项目](pages/cn/Projects.md)
 [论文](pages/cn/Publications.md)
+[专利](pages/cn/Pantents.md)
 [English](https://junganchen.github.io/#!index.md)
 
 <!-- A more complex navigation example: ----------------------------------------
