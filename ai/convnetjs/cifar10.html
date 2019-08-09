@@ -719,7 +719,6 @@ var load_from_json = function() {
   net.fromJSON(json);
   reset_all();
 }
-
 var load_pretrained = function() {
   $.getJSON("cifar10_snapshot.json", function(json){
     net = new convnetjs.Net();
