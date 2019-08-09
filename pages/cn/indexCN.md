@@ -11,5 +11,8 @@ Email:Friendcen21@hotmail.com
 
 ## 研究方向
 
-IoT,Distributed Computing,Machine Learning,Artificial Immune System
+IoT
+Distributed Computing
+Machine Learning
+Artificial Immune System
 Fault Diagnosis
