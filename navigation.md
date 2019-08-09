@@ -22,7 +22,7 @@
 [CV](pages/en/CV.md)
 [Projects](pages/en/Projects.md)
 [Publicatoins](pages/en/Publications.md)
-[Chinese](pages/cn/#!index.md)
+[Chinese](pages/cn/#!indexCN.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
