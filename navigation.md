@@ -24,6 +24,7 @@
 [Projects](pages/en/Projects.md)
 [Publicatoins](pages/en/Publications.md)
 [Pantents](pages/en/Pantents.md)
+[AI](pages/en/ai.md)
 [Chinese](pages/cn/#!indexCN.md)
 
 <!-- A more complex navigation example: ----------------------------------------
