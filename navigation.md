@@ -27,9 +27,10 @@
 [AI](pages/en/ai.md)
 [Chinese](pages/cn/#!indexCN.md)
 [Example]()
+
   * # JS
-  * [JavaScipt](jsexample/README.md)
-  - - - -
+  * [jsexample](jsexample/README.md)
+  
 
 
 <!--
