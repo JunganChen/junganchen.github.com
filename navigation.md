@@ -21,7 +21,7 @@
 [CV](pages/en/CV.md)
 [Projects](pages/en/Projects.md)
 [Publicatoins](pages/en/Publications.md)
-[Chinese](junganchen.github.com/cn/#!index.md)
+[Chinese](cn/#!index.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
