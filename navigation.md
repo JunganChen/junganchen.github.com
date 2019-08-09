@@ -28,7 +28,6 @@
 [Chinese](pages/cn/#!indexCN.md)
 [Example]()
 
-  * # JS
   * [jsexample](jsexample/README.md)
   
 
