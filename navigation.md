@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Jungan Chen
 
 
 <!--
@@ -19,8 +19,10 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[CV](pages/en/CV.md)
+[Projects](pages/en/Projects.md)
+[Publicatoins](pages/en/Publications.md)
+[Chinese](indexCN.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
